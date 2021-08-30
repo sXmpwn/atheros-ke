@@ -28,4 +28,6 @@ Download those 2 Kexts, "AirPortAtheros40.kext" and "HS80211Family.kext", put th
 ## Notes
 Tested with AR9287 on macOS Big Sur 11.5.2
 
+Support coming to AR9565 very soon.
+
 I’m searching for people who can test those Kexts with one of the Atheros chipsets on macOS Monterey 12, if you can test it and you’ve had success with it, please DM me on Discord: sXmed#1279
