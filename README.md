@@ -11,7 +11,7 @@
 - AR9285
 - AR9287
 - AR94851
-- Support coming to AR9565 very soon
+- Support coming to AR9565 and AR9485 very soon
 
 ## Installation
 ### OpenCore
