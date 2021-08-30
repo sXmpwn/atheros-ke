@@ -20,9 +20,10 @@ It should look exactly like this:
 
 ![Example](https://user-images.githubusercontent.com/73723350/131271107-abe28193-fd69-4ad6-ab0c-51a306b68928.png)
 
-
 ### Clover 
 Download those 2 Kexts, "AirPortAtheros40.kext" and "HS80211Family.kext", put these into CLOVER/Kexts/Other.
 
 ## Notes
 Tested with AR9287 on macOS Big Sur 11.5.2
+
+I’m searching for people who can test those Kexts with one of the Atheros chipsets on macOS Monterey 12, if you can test it and you’ve had success with it, please DM me on Discord: sXmed#1279
