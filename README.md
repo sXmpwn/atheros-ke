@@ -23,3 +23,6 @@ It should look exactly like this:
 
 ### Clover 
 Download those 2 Kexts, "AirPortAtheros40.kext" and "HS80211Family.kext", put these into CLOVER/Kexts/Other.
+
+## Notes
+Tested with AR9287 on macOS Big Sur 11.5.2
