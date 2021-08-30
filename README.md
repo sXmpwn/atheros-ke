@@ -11,6 +11,7 @@
 - AR9285
 - AR9287
 - AR94851
+- Support coming to AR9565 very soon
 
 ## Installation
 ### OpenCore
@@ -26,8 +27,6 @@ It should exactly look like this:
 Download those 2 Kexts, "AirPortAtheros40.kext" and "HS80211Family.kext", put these into CLOVER/Kexts/Other.
 
 ## Notes
-Tested with AR9287 on macOS Big Sur 11.5.2
-
-Support coming to AR9565 very soon.
+Tested with AR9287 on macOS Big Sur 11.5.1
 
 I’m searching for people who can test those Kexts with one of the Atheros chipsets on macOS Monterey 12, if you can test it and you’ve had success with it, please DM me on Discord: sXmed#1279
