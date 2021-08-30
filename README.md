@@ -1,3 +1,5 @@
+![atheros-kexts](https://user-images.githubusercontent.com/73723350/131275377-7b12997a-0dd0-43a8-9ff2-13a7902a0497.png)
+
 ## Supported Devices
 
 - AR9281
