@@ -18,6 +18,7 @@
 Download those 2 Kexts, "AirPortAtheros40.kext" and "HS80211Family.kext", put these into EFI/OC/Kexts, add them into your config.plist or do an OC Snapshot if you’re using ProperTree. 
 
 Make sure that "HS80211Family.kext" is loading first and that "AirPortAtheros40.kext" is loading after it in the config.plist. 
+Note that this is case-sensitive, without it, it won’t work!
 
 It should exactly look like this:
 
