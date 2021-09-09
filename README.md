@@ -1,4 +1,4 @@
-picture coming soon
+![atheros-kexts](https://user-images.githubusercontent.com/73723350/132765050-02e7d64f-7523-4601-a2c7-347bf4161f67.PNG)
 
 ## Supported Devices
 
