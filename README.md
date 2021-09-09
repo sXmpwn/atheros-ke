@@ -11,7 +11,15 @@
 - AR9285
 - AR9287
 - AR94851
-- Support coming to AR9565 and AR9485 very soon
+
+Support coming to AR9565 and AR9485 very soon
+
+## Supported macOS versions
+
+- macOS High Sierra
+- macOS Mojave
+- macOS Catalina
+- macOS Big Sur
 
 ## Installation
 ### OpenCore
@@ -30,4 +38,4 @@ Download those 2 Kexts, "AirPortAtheros40.kext" and "HS80211Family.kext", put th
 ## Notes
 Tested with AR9287 on macOS Big Sur 11.5.1
 
-I’m searching for people who can test those Kexts with one of the Atheros chipsets on macOS Monterey 12, if you can test it and you’ve had success with it, please DM me on Discord: sXmed#1279
+I’m searching for people who can test those Kexts with one of the Atheros chipsets on macOS Monterey, if you can test it and you’ve had success with it, please DM me on Discord: sXmed#1279
