@@ -1,4 +1,4 @@
-![131275377-7b12997a-0dd0-43a8-9ff2-13a7902a0497_1_50](https://user-images.githubusercontent.com/73723350/132764727-1d8e7a43-832e-4558-a689-b04fa1e3e330.png)
+picture coming soon
 
 ## Supported Devices
 
