@@ -22,14 +22,15 @@ macOS High Sierra, macOS Mojave, macOS Catalina and macOS Big Sur
 
 ## Installation
 ### OpenCore
-Download those 2 Kexts, "AirPortAtheros40.kext" and "HS80211Family.kext", put these into EFI/OC/Kexts, add them into your config.plist or do an OC Snapshot if you’re using ProperTree. 
+Download those 2 Kexts from Release, "AirPortAtheros40.kext" and "HS80211Family.kext" and put these into EFI/OC/Kexts, add them into your config.plist or do an OC Snapshot if you’re using ProperTree. 
 
 Make sure that "HS80211Family.kext" is loading first and that "AirPortAtheros40.kext" is loading after it in the config.plist. 
-Note that this is case-sensitive, without it, it won’t work!
 
 It should exactly look like this:
 
 ![Example](https://user-images.githubusercontent.com/73723350/131271107-abe28193-fd69-4ad6-ab0c-51a306b68928.png)
 
+Note that this is case-sensitive, without it, it won’t work!
+
 ### Clover 
-Download those 2 Kexts, "AirPortAtheros40.kext" and "HS80211Family.kext", put these into CLOVER/Kexts/Other.
+Download those 2 Kexts from Release, "AirPortAtheros40.kext" and "HS80211Family.kext" and put these into CLOVER/Kexts/Other.
