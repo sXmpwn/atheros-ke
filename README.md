@@ -18,9 +18,9 @@ Support coming to AR9565 and AR9485 very soon
 
 macOS High Sierra, macOS Mojave, macOS Catalina and macOS Big Sur
 
-Currently, it doesn't work on macOS Monterey!
-
 ![High Sierra](https://user-images.githubusercontent.com/73723350/132761234-e861613d-de45-4184-8df3-0719bc75cbf8.png) ![Mojave](https://user-images.githubusercontent.com/73723350/132761272-c6419531-7a0f-4e5a-8de8-3879b7e76fb7.png) ![Catalina](https://user-images.githubusercontent.com/73723350/132761288-e9fd03c7-b40f-48d8-82ce-e0bd0f0656fd.png) ![Big Sur](https://user-images.githubusercontent.com/73723350/132761312-25d70372-b207-4296-b151-77af511273a2.png)
+
+Currently, it doesn't work on macOS Monterey!
 
 ## Installation
 ### OpenCore
