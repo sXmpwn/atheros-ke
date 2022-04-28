@@ -12,15 +12,19 @@
 - AR9287
 - AR94851
 
-Support coming to AR9565 and AR9485 very soon
+## Models
+
+Verified to work with an TP-Link TL-WN881ND (AR9287) on Big Sur and lower.
 
 ## Supported macOS versions
 
-macOS High Sierra, macOS Mojave, macOS Catalina and macOS Big Sur
+macOS 10.14, Mojave - macOS 10.15, Catalina and macOS 11, Big Sur
 
-![High Sierra](https://user-images.githubusercontent.com/73723350/132761234-e861613d-de45-4184-8df3-0719bc75cbf8.png) ![Mojave](https://user-images.githubusercontent.com/73723350/132761272-c6419531-7a0f-4e5a-8de8-3879b7e76fb7.png) ![Catalina](https://user-images.githubusercontent.com/73723350/132761288-e9fd03c7-b40f-48d8-82ce-e0bd0f0656fd.png) ![Big Sur](https://user-images.githubusercontent.com/73723350/132761312-25d70372-b207-4296-b151-77af511273a2.png)
+(shouldn't be needed on 10.13 unless the PCIe-ID of the chipset isn't present)
 
-Currently, it doesn't work on macOS Monterey!
+![Mojave](https://user-images.githubusercontent.com/73723350/132761272-c6419531-7a0f-4e5a-8de8-3879b7e76fb7.png) ![Catalina](https://user-images.githubusercontent.com/73723350/132761288-e9fd03c7-b40f-48d8-82ce-e0bd0f0656fd.png) ![Big Sur](https://user-images.githubusercontent.com/73723350/132761312-25d70372-b207-4296-b151-77af511273a2.png)
+
+Monterey+ is excluded and likely won't be compatible ever.
 
 ## Installation
 ### OpenCore
@@ -36,3 +40,9 @@ Note that this is case-sensitive, without it, it won’t work!
 
 ### Clover 
 Download those 2 Kexts from Release, "AirPortAtheros40.kext" and "HS80211Family.kext" and put these into CLOVER/Kexts/Other.
+
+## Credits
+
+• [pico joe](https://www.insanelymac.com/forum/profile/1113740-pico-joe) for the base modifications 
+
+• [khronokernel](https://github.com/khronokernel) for dumping High Sierra's IO80211Family
